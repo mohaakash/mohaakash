@@ -1,16 +1,34 @@
-## Hi there 👋
+# Hi, I'm Akash 👋
 
-<!--
-**mohaakash/mohaakash** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+AI/ML Engineer | Computer Vision | Robotics | IoT
 
-Here are some ideas to get you started:
+🔗 Portfolio: https://mohaakash.github.io/
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🚀 About Me
+
+* Passionate about building **AI-powered real-world systems**
+* Working on **Computer Vision, ML, and Automation**
+* Interested in **Robotics + IoT + Applied AI**
+* Currently exploring **RAG systems & multi-model AI pipelines**
+
+---
+
+### 📈 Currently Working On
+
+* Advanced **Object Detection Systems**
+* **RAG-based AI applications**
+* Real-time **AI + Embedded Systems**
+
+---
+
+### 📫 Connect With Me
+
+* 🌐 Portfolio: https://mohaakash.github.io/
+* 💼 LinkedIn: mohaakash
+* 📧 Email: mhakash160@gmail.com
+
+---
+
+> “Building things that actually solve problems.”
