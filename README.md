@@ -1,6 +1,6 @@
-# 🏄‍♂️ Mohaakash
+# 🏄‍♂️ Mohammad Akash
 
-**`Digital Craftsman`**
+**`mohaakash`**
 
 I'm an AI/ML engineer.
 
@@ -13,7 +13,7 @@ I'm an AI/ML engineer.
 ![Rust](https://img.shields.io/badge/rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white)
 ![Linux](https://img.shields.io/badge/linux-%23FCC624.svg?style=for-the-badge&logo=linux&logoColor=black)
 ![pytorch](https://img.shields.io/badge/spring-%F37440.svg?style=for-the-badge&logo=spring&logoColor=white)
-![YOLO]([https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB](https://img.shields.io/badge/YOLO-111F68?style=for-the-badge&logo=yolo&logoColor=white))
+![YOLO](https://img.shields.io/badge/YOLO-111F68?style=for-the-badge&logo=yolo&logoColor=white)
 ![LangChain](https://img.shields.io/badge/langchain-%231C3C3C.svg?style=for-the-badge&logo=langchain&logoColor=white)
 ![HuggingFace](https://img.shields.io/badge/huggingface-%23FFD21E.svg?style=for-the-badge&logo=huggingface&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)
