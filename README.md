@@ -1,8 +1,8 @@
-# 🏄‍♂️ Mohammad Akash
+# 👾 Mohammad Akash
 
 **`mohaakash`**
 
-I'm an AI/ML engineer.
+I make stuff.
 
 
 
