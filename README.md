@@ -12,6 +12,6 @@ I make stuff.
 [![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)][youtube]
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)][linkedin]
 
-[website]: https://mohaakash.me
+[website]: https://mohaakash.github.io
 [youtube]: https://www.youtube.com/@mohaakash
 [linkedin]: https://www.linkedin.com/in/mohaakash
